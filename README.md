@@ -1,6 +1,8 @@
 👋 Howdy! I'm Germán Espejo-Saavedra, a newbie full-stack developer learning both front and back-end website development; more suited to the last one.
+Currently I code using Javascript, HTML:5, CSS and learning to use React. I will learn other programming languages in the near future aswell!
 Feel free to navigate the repositories and reach me if you need anything else.
 Thank you!
+
 - 📫 My email: gespedra@gmail.com
 
 <!---
