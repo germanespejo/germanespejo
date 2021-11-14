@@ -2,7 +2,7 @@
 Currently I code using Javascript, HTML:5, CSS and I'm learning right now to use React.
 I will learn other programming languages in the near future aswell!
 Feel free to browse my Github's repositories. You can reach me by email if you need anything else.
-Thank you! 👀�
+Thank you! 👀
 
 - 📫 My email: gespedra@gmail.com
 
